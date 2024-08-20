@@ -1,4 +1,4 @@
-//client component
+//client component(when ever we use -- useState, useEffect, react hook we need to add "use client" otherwise it give error)
 'use client'
 
 import { useState, useEffect } from "react"

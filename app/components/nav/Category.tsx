@@ -1,7 +1,7 @@
 // Design used in Categories.tsx
 "use client"
 
-import { useSearchParams } from "next/dist/client/components/navigation";
+import { useSearchParams } from "next/navigation";
 import { useRouter } from "next/navigation";
 import { useCallback } from "react";
 import { IconType } from "react-icons";
@@ -18,7 +18,7 @@ const Category:React.FC<CategoryProps> = ({label, icon:Icon, selected}) => {
  const params = useSearchParams();
 
  const handleClick = useCallback(()=>{
-    if(label == "All"){
+    if(label == "Home"){
         router.push('/')
     }else{
         let currentQuery = {}

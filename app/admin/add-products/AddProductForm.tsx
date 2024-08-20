@@ -240,8 +240,8 @@ const removeImageFromState = useCallback((value:ImageType)=>{
       required
       />
       <TextArea 
-      id="discription"
-      label="Discription"
+      id="description"
+      label="Description"
       disabled={isLoading}
       register={register}
       errors={errors}

@@ -2,7 +2,11 @@
 const nextConfig = {
     images:{
         domains:["m.media-amazon.com", "lh3.googleusercontent.com","firebasestorage.googleapis.com"]
-    }
+    },
+    experimental: {
+    missingSuspenseWithCSRBailout: false,
+  },
 };
 
 export default nextConfig;
+

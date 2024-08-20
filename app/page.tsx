@@ -1,5 +1,6 @@
 export const revalidate = 0;
 
+// localhost:3000
 import { products } from "@/utils/products";
 import Container from "./components/Container";
 import HomeBanner from "./components/HomeBanner";
@@ -20,7 +21,7 @@ export default async function Home({searchParams}:HomeProps) {
   const products = await getProducts(searchParams);
 
   if(products.length == 0 ){
-    return <NullData title="Oops! No products found. Click All to clear filter" />
+    return <NullData title="Oops! No products found. Click Home to clear filter" />
   }
 
 // //shuffle product

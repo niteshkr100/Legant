@@ -81,7 +81,7 @@ const columns: GridColDef[] = [
              <ActionBtn icon={MdDelete} 
              onClick={()=>{handleDelete(params.row.id, params.row.images )}}/>
              <ActionBtn icon={MdRemoveRedEye} 
-             onClick={()=>{router.push(`product/${params.row.id}`)}}/>
+             onClick={()=>{router.push(`/product/${params.row.id}`)}}/>
         </div>)
     } },
 ]

@@ -8,7 +8,7 @@ import { BsBasket2Fill } from "react-icons/bs";
 
 export const categories =[
     {
-        label: "All",
+        label: "Home",
         icon: MdStorefront
     },
     {

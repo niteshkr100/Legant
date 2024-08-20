@@ -1,5 +1,7 @@
 "use client";
+// it is a client side component b/c it use browser side capabilities
 
+// High Order Components
 import { CartContextProvider } from "@/hook/useCart";
 
 interface CartProviderProps{
