@@ -26,7 +26,7 @@ Neon
 
 PostgreSQL
 
-
+Typescript
 
 ### Installation
 
