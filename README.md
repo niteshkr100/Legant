@@ -24,7 +24,9 @@ Drizzle
 
 Neon
 
-PostgreSQL
+MongoDB
+
+Firebase
 
 Typescript
 
