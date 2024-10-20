@@ -20,10 +20,6 @@ Shadcn UI
 
 Tailwind Css
 
-Drizzle
-
-Neon
-
 MongoDB
 
 Firebase
