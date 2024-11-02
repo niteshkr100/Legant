@@ -5,9 +5,9 @@ This project will involve the development of a "E-commerce Application”
 
 ### Features:
 1. Implement login and logout functionality.
-2. Display a summary of financial status, including total income, expenses, and savings.
-3. Provide graphical representation of expenses over time, using pie charts, bar graphs, etc.
-4. Expense Management:Add, edit, and delete expense entries. Categorize expenses (e.g.,groceries, bills, entertainment).
+2. Display a summary of financial status, including total income and sell.
+3. Provide graphical representation of Product selling, using pie charts, bar graphs, etc.
+4. Product Management:Add, edit, and delete expense entries. Categorize expenses (e.g.,groceries, bills, entertainment).
 
 ### Tech Stack:
 Next.js
@@ -31,7 +31,7 @@ Typescript
 1. Clone the repo
 
 ```sh
-git clone https://github.com/niteshkr100/FinBudget.git
+git clone https://github.com/niteshkr100/Legant.git
 ```
 
 2. Directory of folder
