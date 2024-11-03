@@ -18,6 +18,8 @@ Node.js
 
 Shadcn UI
 
+Material UI
+
 Tailwind Css
 
 MongoDB
