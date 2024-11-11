@@ -51,6 +51,4 @@ for running the webapp----->
 ```sh
 npm run dev
 ```
-## for website url email me at niteshkumarxyz100@gmail.com
- 
  
