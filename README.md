@@ -33,7 +33,7 @@ Typescript
    #### 1. Fork the repository to your GitHub account.
    #### 2. Clone the forked repository to your local machine.
    ```bash
-   git clone https://github.com/niteshkr100/promptio.git
+   git clone https://github.com/niteshkr100/Legant.git
    ```
    #### 3. Create a new branch for your changes.
    ```bash
