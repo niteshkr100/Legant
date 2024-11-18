@@ -28,7 +28,7 @@ Firebase
 
 Typescript
 
-## 💵 How to Contribute
+## How to Contribute
 
    #### 1. Fork the repository to your GitHub account.
    #### 2. Clone the forked repository to your local machine.
